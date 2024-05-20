@@ -1,0 +1,132 @@
+.header{
+    padding-left: 59px;
+    padding-top: 36px;
+    height: 85px;
+    width: 1351px;
+    display: flex;
+}
+.header2{
+height: 28px;
+width: 563,61px;
+display: flex;
+padding-left: 342px;
+;
+padding-top: 28px;
+}
+.solutions{
+    padding-right: 30px;
+    color: white;
+}
+.DEVELOPERS{
+    padding-right: 30px;
+    color: white;
+}
+.COSTUMERS{
+    padding-right: 30px;
+    color: white;
+}
+.BLOG{
+    padding-right: 30px;
+    color: white;
+}
+.login{
+padding-left: 245px;
+padding-right: 29px;
+padding-top: 23px;
+color: white;
+}
+.signup{
+padding-left: 56px;
+height: 43px;
+width: 122px;
+background-color: crimson;
+padding-top: 23px;
+padding-inline-start: 35px;
+border-radius: 30px;
+}
+
+
+/* ჰედერის კოდები ზემოთა ნაწილი */
+
+/*main1-ის კოდები*/
+
+.main{
+    height: 526px;
+    width: 952px;
+    padding-left: 258px;
+    padding-top: 62px;
+}
+.smallbox{
+    width: 293px;
+    height: 24px;
+    border: 2px solid rgb(240, 31, 31);
+    border-radius: 20px;
+    inline-size: 293px;
+    color: white;
+}
+.h12{
+    width: 500px;
+    height: 92px;
+    font-size: 35px;
+}
+.smalltext{
+    color: gray;
+    padding-top: 73px;
+}
+
+
+/*main2-ის კოდები*/
+
+.main2{
+    height: 623px;
+    width: 1284px;
+    margin-top: 200px;
+    margin-left: 77px;
+    display: flex;
+    }
+
+    .title{
+        width: 678px;
+        height: 226px;
+        color: white;
+    }
+    .curcle{
+        width: 163px;
+        height: 24px;
+        border: 2px solid red;
+        border-radius: 20px;
+        color: white;
+    }
+
+    .text1{
+        padding-top: 50.89px;
+    }
+
+    .text2{
+        padding-top: 50px;
+    }
+
+    .img2{
+        padding-left: 234px;
+    }
+    
+    .main3{
+        width: 1339px;
+        height: 939px;
+        padding-left: 50px;
+        padding-top: 51px;
+    }
+
+    .smallbox1{
+        height: 24px;
+        width: 166px;
+        font-size: 15px;
+        color:white;
+        border: 2px solid #E03F3F;
+        border-radius: 20px;
+    }
+
+    .bigtext{
+        color: white;
+        font-size: 79px;
+    }
