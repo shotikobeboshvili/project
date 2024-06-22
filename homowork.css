@@ -48,6 +48,15 @@ border-radius: 30px;
 
 /* ჰედერის კოდები ზემოთა ნაწილი */
 
+
+
+
+
+
+
+
+
+
 /*main1-ის კოდები*/
 
 .main{
@@ -72,6 +81,12 @@ border-radius: 30px;
     color: gray;
     padding-top: 73px;
 }
+
+
+
+
+
+
 
 
 /*main2-ის კოდები*/
@@ -109,6 +124,11 @@ border-radius: 30px;
         padding-left: 234px;
     }
     
+
+
+
+
+
 /** main3-ის კოდები**/
 
     .main3{
@@ -132,11 +152,15 @@ border-radius: 30px;
         font-size: 79px;
     }
 
+
+
+
+/*პირველი სურათის*/
     .img3{
         height: 540px;
         width: 410px;
         border-radius: 25px;
-        margin-top: 326px;
+        margin-top: 100px;
         background-color: #031c3f;
     }
 .img31{
@@ -144,18 +168,123 @@ border-radius: 30px;
     height: 406px;
     padding-top: 22px;
 }
-
-.li{
-    color: red;
-    font-size: x-large;
+/*მეორე სურათის კოდები*/
+.smallbox2{
+    background-color: #031c3f;
+    height: 540px;
+    width: 410px;
+    border-radius: 25px;
+    margin-left: 50px;
+    margin-top: 55px;
 }
-.h3{
+.smallbox21{
+padding-top: 22px;
+padding-left: px;
+}
+/*მესამე სურათის კოდები*/
+.img5{
+    background-color: #031c3f;
+    height: 540px;
+    width: 410px;
+    border-radius: 25px;
+    margin-left: 55px;
+    margin-top: 100px;
+}
+.img51{
+    padding-top: 22px;
+}
+
+
+
+
+
+
+/*main-ის კოდები*/
+.main4{
+    height: 899px;
+    padding-top: 68px;
+    background-color:  hsla(215, 46%, 19%, 0.3);
+    background-image: url(Group\ 379.png);
+}
+.img4{
+    display: flex;
+}
+.img41{
+    margin-left: 275px;
+}
+.smallbox3{
+    width: 163px;
+    height: 24px;
+    border-radius: 20px;
+    border: 2px solid hsla(0, 72%, 56%, 1);
+    margin-left: 525px;
+    margin-top: 100px;
+    color: white;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 10px;
+    letter-spacing: 0.03em;
+    text-align: center;   
+}
+.main42{
+  
+    
+}
+.text3{
+    font-family: Inter;
+    font-size: 75px;
+    font-weight: 700;
+    line-height: 92px;
+    text-align: right;
     color: white;
 }
+.text31{
+    font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 30px;
+text-align: right;
+color: hsla(198, 16%, 75%, 1);
+letter-spacing: 0.01em;
+padding-top: 43px;
+}
 
-.dot{
-    background-color: red;
-    border-radius: 50%; 
-    height: 15px; 
-    width: 15px;
+.smallbox4{
+    width: 175px;
+    height: 23px;
+    color:  hsla(0, 72%, 56%, 1);
+    margin-top: 27px;
+font-family: Inter;
+font-size: 12px;
+font-weight: 600;
+line-height: 22.8px;
+letter-spacing: 0.05em;
+text-align: center;
+}
+
+
+.main5{
+    margin-top: 112px;
+    height: 397px;    
+}
+.smallbox5{
+    width: 444px;
+    height: 24px;
+    border: 2px solid hsla(0, 72%, 56%, 1);
+    color: hsla(0, 0%, 100%, 1);
+    font-size: 12px;
+    border-radius: 20px;
+    text-shadow: #d31818;
+    margin-right: 280px;
+}
+.p1{
+    font-family: Inter;
+font-size: 79px;
+font-weight: 700;
+line-height: 92px;
+text-align: center;
+color: hsla(0, 0%, 100%, 1);
+margin-top: 10px ;
+margin-right: 280px;
 }
