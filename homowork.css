@@ -194,12 +194,8 @@ padding-left: px;
     padding-top: 22px;
 }
 
-
-
-
-
-
 /*main-ის კოდები*/
+
 .main4{
     height: 899px;
     padding-top: 68px;
@@ -226,10 +222,6 @@ padding-left: px;
     line-height: 10px;
     letter-spacing: 0.03em;
     text-align: center;   
-}
-.main42{
-  
-    
 }
 .text3{
     font-family: Inter;
@@ -275,8 +267,6 @@ text-align: center;
     color: hsla(0, 0%, 100%, 1);
     font-size: 12px;
     border-radius: 20px;
-    text-shadow: #d31818;
-    margin-right: 280px;
 }
 .p1{
     font-family: Inter;
@@ -286,5 +276,98 @@ line-height: 92px;
 text-align: center;
 color: hsla(0, 0%, 100%, 1);
 margin-top: 10px ;
-margin-right: 280px;
+}
+
+.surati--{
+    padding-inline: 50px;
+}
+.smallbox7{
+    color: red;
+    width: 196px;
+height: 23px;
+font-family: Inter;
+font-size: 18px;
+margin-top: 100px;
+}
+
+/*main6's code*/
+
+.main6{
+  height: 829px;
+  width: 1356px;  
+  border: 2px saddlebrown;
+ 
+}
+.main61{
+    height: 829px;
+    width: 1356px;  
+    margin-top: 112px;
+    border: 2px saddlebrown;
+    background: url(imigs/surati7.png);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: right; 
+}
+.bigbox1{
+    width: 637px;
+    height: 540px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 719px;
+}
+.smallbox8{
+    color: white;
+    font-family: Inter;
+font-size: 12px;
+line-height: 0px;
+letter-spacing: 0.03em;
+border: 2px solid hsla(0, 72%, 56%, 1);
+height: 24px;
+width: 180px;
+border-radius: 20px;
+margin-top: 105px;
+box-shadow: 5px 5px 10px rgba(0, 72%, 56%, 1);
+;
+}
+
+.bigtext3{
+    color: hsla(0, 0%, 100%, 1);
+    font-family: Inter;
+font-size: 71px;
+font-weight: 700;
+line-height: 92px;
+text-align: left;
+
+width: 446px;
+height: 184px;
+top: 160px;
+margin-top: 31px;
+}
+.bigtext4{
+    color: hsla(198, 16%, 75%, 1);
+    text-align: left;
+    margin-top: 31px;
+    font-family: Inter;
+font-size: 20px;
+line-height: 30px;
+}
+.surati6{
+    padding-left: 10%;
+width: 719px;
+height: 720px;
+margin-top: 100%;
+}
+.smalltext10{
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 22.8px;
+    letter-spacing: 0.05em;
+    text-align: center;
+    width: 103px;
+height: 23px;
+margin-top: 300px;
+color:hsla(0, 72%, 56%, 1);
+
+
 }
