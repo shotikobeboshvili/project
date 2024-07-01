@@ -44,7 +44,10 @@ padding-top: 23px;
 padding-inline-start: 8px;
 border-radius: 30px;
 }
-
+.signup:hover{
+   background-color: #0a2244;
+    cursor: pointer;
+}
 
 /* ჰედერის კოდები ზემოთა ნაწილი */
 
@@ -167,6 +170,22 @@ border-radius: 30px;
     width: 370px;
     height: 406px;
     padding-top: 22px;
+    margin-top: 22px;    
+}
+.img32{
+    display: flex;
+    justify-content: center;
+    margin-top: 24px;
+    font-size: 20px;
+     color: hsla(222, 13%, 65%, 1);
+}
+.img33{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: red;
+    margin-right: 20px;
+    margin-top: 5px;
 }
 /*მეორე სურათის კოდები*/
 .smallbox2{
@@ -179,7 +198,21 @@ border-radius: 30px;
 }
 .smallbox21{
 padding-top: 22px;
-padding-left: px;
+}
+.img42{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: red;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+.img43{
+    display: flex;
+    justify-content: center;
+    margin-top: 24px;
+    font-size: 20px;
+     color: hsla(222, 13%, 65%, 1);
 }
 /*მესამე სურათის კოდები*/
 .img5{
@@ -192,6 +225,21 @@ padding-left: px;
 }
 .img51{
     padding-top: 22px;
+}
+.img52{
+    display: flex;
+    justify-content: center;
+    margin-top: 24px;
+    font-size: 20px;
+     color: hsla(222, 13%, 65%, 1);
+}
+.img53{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    background-color: red;
+    margin-right: 20px;
+    margin-top: 5px;
 }
 
 /*main-ის კოდები*/
@@ -314,6 +362,7 @@ margin-top: 100px;
     display: flex;
     flex-direction: column;
     margin-right: 719px;
+    
 }
 .smallbox8{
     color: white;
@@ -363,7 +412,7 @@ margin-top: 100%;
     font-weight: 600;
     line-height: 22.8px;
     letter-spacing: 0.05em;
-    text-align: center;
+    padding-left: 100%;
     width: 103px;
 height: 23px;
 margin-top: 300px;
@@ -429,8 +478,6 @@ margin-top: 30px;
     height: 546px;
     margin-right: 100px;
     margin-top: 112px;
-    display: flex;
-    flex-direction: row;
 }
 .surati7{
 margin-right: 169px;
@@ -479,4 +526,41 @@ width: 66px;
     display: flex;
     flex-direction: column;
     text-align: left;
+}
+
+.smallbox15{
+    display: flex;
+    flex-direction: row;
+    height: 28px;
+    width: 470px;
+    padding-right: 100px;
+}
+.p2{
+    color: hsla(222, 13%, 65%, 1);
+    padding-inline: 17px;
+font-family: Inter;
+font-size: 12px;
+font-weight: 400;
+line-height: 11px;
+letter-spacing: 0.03em;
+text-align: left;
+}
+.smallbox16{
+    height: 28px;
+    width: 470px;
+    display: flex;
+    flex-direction: row;
+    font-size: 10px;
+    padding-left: 200px;
+    
+}
+.img6{
+padding: 0px 3.52px 10.39px 85.7px;
+}
+
+.background{
+    background-image: url(imigs/background.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position: 270px 150px ;
 }
